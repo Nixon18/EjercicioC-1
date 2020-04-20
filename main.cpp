@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
 	
 	float numero,resultado;
 	
-	cout<<"ingrese un numero flotante a continuacion"<<endl;
+	cout<<"ingrese un numero flotante "<<endl;
 	cin>>numero;
 	
 	resultado = numero /100;
